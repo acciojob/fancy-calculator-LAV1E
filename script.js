@@ -2,7 +2,7 @@
 let firstVariable;
 let secondVariable;
 firstVariable =  Number(prompt("Enter a number"));
-firstVariable = firstVariable * 2;.
+firstVariable = firstVariable * 2;
 
 secondVariable =  Number(prompt("Enter a number"));
 let result = firstVariable + secondVariable;
